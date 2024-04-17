@@ -2,7 +2,7 @@
 
 An interactive dot-density map of reported home values for owner-occupied housing units from the 2018-2022 American Community Survey
 
-This interactive map visualizes reported home values for owner-occupied housing units at the Census tract level in the 2018-2022 5-year ACS.  Data values are taken from the ACS Data Profile variables DP04_0081 through DP04_0088.  Values are self-reported by respondents when asked the question "About how much do you think this house and lot, apartment, or mobile home (and lot, if owned) would sell for if it were for sale?"  [This means that reported values may differ from actual appraised values or actual real estate values as housing markets shift](https://github.com/felt/tippecanoe](https://censusreporter.org/topics/housing/#:~:text=The%20ACS%20records%20estimated%20selling,fluctuating%20or%20falling%20housing%20market.).    
+This interactive map visualizes reported home values for owner-occupied housing units at the Census tract level in the 2018-2022 5-year ACS.  Data values are taken from the ACS Data Profile variables DP04_0081 through DP04_0088.  Values are self-reported by respondents when asked the question "About how much do you think this house and lot, apartment, or mobile home (and lot, if owned) would sell for if it were for sale?"  [This means that reported values may differ from actual appraised values or actual real estate values as housing markets shift](https://censusreporter.org/topics/housing/#:~:text=The%20ACS%20records%20estimated%20selling,fluctuating%20or%20falling%20housing%20market.).    
 
 The general methodology for visualizing the dots is as follows: 
 
